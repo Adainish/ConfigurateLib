@@ -1,0 +1,7 @@
+name: ConfigurateLib
+version: '${version}'
+main: io.github.adainish.configuratelib.ConfigurateLib
+api-version: 1.16
+prefix: ConfigurateLib
+authors: [ Winglet, SpongePowered ]
+description: Configurate Lib for 1.16
